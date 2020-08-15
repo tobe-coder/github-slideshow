@@ -1,6 +1,6 @@
 ---
 layout: slide
-title: "Welcome to our second slide!"
+title: "Welcome to our second new slide!"
 ---
-Your text
+Add word "new" to title.
 Use the left arrow to go back!
